@@ -1,4 +1,4 @@
-# Formulario de carga de archivos a un bucket de Amazon S3
+# Formulario de carga de archivos a Amazon S3
 
 Este proyecto proporciona un formulario web para cargar archivos en un bucket de Amazon S3.
 
@@ -41,3 +41,7 @@ Antes de iniciar el proyecto debes especificar tu **llave de acceso** así como 
 1. Abrir el archivo `index.php` en tu navegador web preferido.
 2. Selecciona el archivo que deseas cargar en tu bucket de S3.
 3. Dar clic en "Subir archivo" para cargar el archivo.
+
+## Retro
+
+Si tienes algún comentario, por favor contáctanos en isahir.hdez@hotmail.com.
