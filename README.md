@@ -18,7 +18,7 @@ Ir a tu carpeta de proyectos del servidor
 
 Clonar el proyecto del repositorio de GitHub
 
-```bash
+```console
   git clone https://github.com/BrandonHernz/app-upload-s3.git
 ```
 
@@ -44,4 +44,4 @@ Antes de iniciar el proyecto debes especificar tu **llave de acceso** así como 
 
 ## Retro
 
-Si tienes algún comentario, por favor contáctanos en isahir.hdez@hotmail.com.
+Si tienes algún comentario, por favor contáctame en isahir.hdez@hotmail.com.
